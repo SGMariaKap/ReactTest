@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SGMariaKap/ReactTest2.git/static/css/main.a92c381b.css",
-    "main.js": "/SGMariaKap/ReactTest2.git/static/js/main.fc5993cf.js",
-    "index.html": "/SGMariaKap/ReactTest2.git/index.html",
-    "main.a92c381b.css.map": "/SGMariaKap/ReactTest2.git/static/css/main.a92c381b.css.map",
-    "main.fc5993cf.js.map": "/SGMariaKap/ReactTest2.git/static/js/main.fc5993cf.js.map"
+    "main.css": "/ReactSG/static/css/main.a92c381b.css",
+    "main.js": "/ReactSG/static/js/main.fc5993cf.js",
+    "index.html": "/ReactSG/index.html",
+    "main.a92c381b.css.map": "/ReactSG/static/css/main.a92c381b.css.map",
+    "main.fc5993cf.js.map": "/ReactSG/static/js/main.fc5993cf.js.map"
   },
   "entrypoints": [
     "static/css/main.a92c381b.css",
